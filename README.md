@@ -19,9 +19,10 @@ Not applicable
 #### Main
 1. Install Python
 2. Ensure that all the images are of the same extension
-3. Open a terminal and run this command:
+3. Open a terminal and run this commands:
    ```
    cd darknet/data/obj
+   
    python process.py
    ```
 
